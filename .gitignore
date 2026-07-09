@@ -12,3 +12,6 @@ __pycache__/
 
 # Conda
 env/
+
+# Reports
+results_analysis.md
